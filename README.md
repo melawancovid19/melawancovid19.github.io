@@ -1,6 +1,8 @@
 # melawancovid19.github.io
  Indonesia Melawan COVID-19
 
+adadada
+
 <canvas id="myChart" width="400" height="400"></canvas>
 <script>
 var ctx = document.getElementById('myChart').getContext('2d');
